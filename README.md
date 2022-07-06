@@ -1,2 +1,3 @@
 # basico-js
-Algoritmos básicos para entender programação em JS
+
+Algoritmos básicos para estudar e aprender lógica de programação em JavaScript :))
