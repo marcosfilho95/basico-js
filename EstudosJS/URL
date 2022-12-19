@@ -1,0 +1,20 @@
+var pathname = '/Visao360Cliente/DadosCadastroPF/4817814-9';
+
+var resp = pathname.split('/');
+
+
+var rota = [];
+for (let i =1; i<= resp.length-1; i++) {
+	
+	if(i == 1) {
+    rota.push('/'+resp[i]);
+	}
+	
+	else if (i > 1) {
+	rota.push(rota[rota.length-1]+'/'+resp[i]);
+	}	
+}
+
+console.log(rota);
+
+
