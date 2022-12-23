@@ -1,0 +1,22 @@
+var lista = ["Laranja", "Vermelho", "Branco", "Amarelo", "Rosa"]; 
+
+var pos = lista.indexOf('Vermelho');
+
+console.log(pos);
+
+lista.splice(pos, 1);
+
+console.log(lista);
+
+// indexof acessa o elemento
+
+// push() adiciona um elemento no final do array
+
+// unshift() adiciona um elemento no inicio do array
+
+// shift() remove um elemento no inicio do array
+
+// pop() remove um elemento no final do array
+
+// splice() remove um elemento pelo indice
+
