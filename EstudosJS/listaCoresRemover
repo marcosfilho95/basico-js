@@ -8,7 +8,7 @@ lista.splice(pos, 1);
 
 console.log(lista);
 
-// indexof acessa o elemento
+// indexof() acessa o elemento
 
 // push() adiciona um elemento no final do array
 
