@@ -8,15 +8,15 @@ lista.splice(pos, 1);
 
 console.log(lista);
 
-// indexof() acessa o elemento
+// indexof() acessa o elemento.
 
-// push() adiciona um elemento no final do array
+// push() adiciona um elemento no final do array.
 
-// unshift() adiciona um elemento no inicio do array
+// unshift() adiciona um elemento no inicio do array.
 
-// shift() remove um elemento no inicio do array
+// shift() remove um elemento no inicio do array.
 
-// pop() remove um elemento no final do array
+// pop() remove um elemento no final do array.
 
-// splice() remove um elemento pelo indice
+// splice() remove um elemento pelo indice.
 
